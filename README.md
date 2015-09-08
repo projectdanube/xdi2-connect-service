@@ -5,7 +5,7 @@ This is a "Connect Service" component for the XDI Browser binding.
 
 ### XDI Connect
 
-This is part of a set of projects related to XDI Connect:
+This is part of a set of projects related to the XDI Browser binding:
 * [xdi2-connect-core](http://github.com/projectdanube/xdi2-connect-core)
 * [xdi2-connect-service](http://github.com/projectdanube/xdi2-connect-service)
 * [xdi2-connect-auth-service](http://github.com/projectdanube/xdi2-connect-auth-service)
