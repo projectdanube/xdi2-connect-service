@@ -23,7 +23,7 @@ First, you need to build the main [XDI2](http://github.com/projectdanube/xdi2) a
 
 After that, just run
 
-    mvn clean install jetty:run
+    mvn clean install jetty:run-war
 
 Then the Connect Service is available at
 
